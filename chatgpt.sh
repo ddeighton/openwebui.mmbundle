@@ -1,5 +1,9 @@
 #!/bin/bash
-
+# Jim Bates
+# Purpose: This provides a ChatGPT text type interface using the same OpenAI KEY as OpenAI.mmbundle
+#          This script has nothing to do with the OpenAI.mmbundle; I just thought I'd create a copy
+#          of it here to make it easily available to those working with the bundle.
+#
 API_KEY="${OPENAI_API_KEY}"
 MODEL="${OPENAI_MODEL}"
 HISTORY_FILE="/tmp/chatgpt_history.json"
