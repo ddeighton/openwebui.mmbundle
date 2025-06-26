@@ -20,7 +20,7 @@ You need to install 2 packages
 https://auth.openai.com/log-in
 
 ### Environment Variables
-- You need to create a `.openai` in your home directory
+- You need to create a `.openai` configuration file in your home directory
 - Add 2 variables
   - `export OPENAI_API_KEY="sk-proj-<YOUR KEY HERE>m4A"`
   - `export OPENAI_MODEL="gpt-4o"`
