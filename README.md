@@ -24,6 +24,7 @@ https://auth.openai.com/log-in
 - Add 2 variables
   - `export OPENAI_API_KEY="sk-proj-<YOUR KEY HERE>m4A"`
   - `export OPENAI_MODEL="gpt-4o"`
+ 
 ##
 References:
 - https://github.com/mailmate
