@@ -1,6 +1,6 @@
-{	"contactEmailRot13" = "jim@batesiv.net";
-	contactName = "Jim Bates";
-	description = "OpenAI API E-Mail Summary";
-	name = "OpenAI";
-	uuid = "5317EC08-7BBE-48EC-B9D0-527A213D8D10";
+{	"contactEmailRot13" = "dan-git@deightime.net";
+	contactName = "Daniel Deighton";
+	description = "Open WebUI API E-Mail Summary";
+	name = "OpenWebUI";
+	uuid = "09b17bd4-8da6-41ae-95e9-405af2c4a473";
 }

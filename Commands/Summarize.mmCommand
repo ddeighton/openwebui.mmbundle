@@ -1,9 +1,9 @@
 {	name = "Summarize E-Mail";
-	uuid = "16624A3D-891E-4A23-B608-25E8757F63ED";
+	uuid = "145ab4ab-c10c-4251-9580-aeb13c07e8c3";
 	keyEquivalent = "^o";
 	input = "html";
 	environment = "MM_FROM=${from}\nMM_TO=${to}\nMM_SUBJECT=${subject}\nMM_DATE=${date}";
-	command = '#!/bin/bash\n"${MM_BUNDLE_SUPPORT}/bin/openai.sh"';
+	command = '#!/bin/bash\n"${MM_BUNDLE_SUPPORT}/bin/openwebui.sh"';
 	output = "actions";
 	executionMode = "singleMessage";
 }
